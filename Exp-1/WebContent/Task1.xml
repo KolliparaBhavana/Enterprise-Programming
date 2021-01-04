@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Student_info SYSTEM "Task1.dtd">
+<Student_info>
+ <student sid="a">
+   <name> BHAVANA </name>
+   <id> 30808 </id>
+   <branch> CSE </branch>
+   <cgpa> 9.4 </cgpa>
+ </student>
+<student sid="b">
+ <name> PREESHA </name>
+   <id> 39999 </id>
+   <branch> CSE </branch>
+   <cgpa> 9.0 </cgpa>
+ </student>
+ <student sid="c">
+ <name> SARA</name>
+   <id> 30090 </id>
+   <branch> ECE </branch>
+   <cgpa> 9.8 </cgpa>
+ </student>
+ <student sid="d">
+ <name> AARTHI </name>
+   <id> 31111 </id>
+   <branch> EEE </branch>
+   <cgpa> 9 </cgpa>
+ </student>
+ <student sid="e">
+ <name> TANU </name>
+   <id> 32000 </id>
+   <branch> IT </branch>
+   <cgpa> 9 </cgpa>
+ </student>
+ <student sid="f">
+ <name> ISHITA </name>
+   <id> 39000 </id>
+   <branch> ECM </branch>
+   <cgpa> 9.5 </cgpa>
+ </student>
+ <student sid="g">
+ <name> RUHI </name>
+   <id> 34000 </id>
+   <branch> EEE </branch>
+   <cgpa> 9.1 </cgpa>
+ </student>
+ <student sid="h">
+ <name> MIHIKA </name>
+   <id> 35000 </id>
+   <branch> ECE </branch>
+   <cgpa> 9.8 </cgpa>
+ </student>
+</Student_info>
+ 
